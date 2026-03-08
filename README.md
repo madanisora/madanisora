@@ -27,7 +27,7 @@ Focus       : Web3 Security & Smart Contract Auditing
 | 🧠 Research | Smart contract vulnerability research |
 | 🐛 Bug Bounty | Web3 bug bounty programs (weekends & free time) |
 
-
+---
 
 ## 📬 Connect With Me
 
