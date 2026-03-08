@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Harits%20%E2%80%94%20MadaniSora&fontSize=36&fontColor=00d4ff&fontAlignY=40&desc=Smart%20Contract%20Security%20Researcher%20%7C%20Informatics%20Engineering%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=62&descSize=14&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Harits%20%E2%80%94%20MadaniSora&fontSize=36&fontColor=00d4ff&fontAlignY=40&desc=Independent%20Security%20Researcher%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=62&descSize=14&animation=fadeIn" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 ## 👤 About Me
 ```yaml
 Name        : Harits (MadaniSora)
-Role        : Informatics Engineering Student
+Role        : Independent Security Researcher
 Location    : Indonesia 🇮🇩
 Focus       : Web3 Security & Smart Contract Auditing
 ```
