@@ -4,8 +4,6 @@
 
 <br/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=MadaniSora&color=00d4ff&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
