@@ -27,35 +27,7 @@ Focus       : Web3 Security & Smart Contract Auditing
 | 🧠 Research | Smart contract vulnerability research |
 | 🐛 Bug Bounty | Web3 bug bounty programs (weekends & free time) |
 
----
 
-## 🧰 Tech Stack & Tools
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MadaniSora&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
-
-</div>
-
----
 
 ## 📬 Connect With Me
 
