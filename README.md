@@ -16,7 +16,6 @@ Name        : Harits (MadaniSora)
 Role        : Informatics Engineering Student
 Location    : Indonesia 🇮🇩
 Focus       : Web3 Security & Smart Contract Auditing
-Availability: Open to security research collaborations & bug bounty
 ```
 
 ---
@@ -27,7 +26,6 @@ Availability: Open to security research collaborations & bug bounty
 |------|---------|
 | 🧠 Research | Smart contract vulnerability research |
 | 🐛 Bug Bounty | Web3 bug bounty programs (weekends & free time) |
-| 🛡️ Goal | Making Web3 protocols safer, one audit at a time |
 
 ---
 
@@ -38,7 +36,6 @@ Availability: Open to security research collaborations & bug bounty
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-grey?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=)
 ![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat-square)
 
 ---
