@@ -7,11 +7,11 @@
 ![Production](https://img.shields.io/badge/pushed_to-production%20on%20Friday-red)
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/TbrCsJIRpXwAAAAC/kurumi-tokisaki.gif" width="220" title="Kurumi Tokisaki"/>
+  <img src="https://media1.tenor.com/m/Dp66GxqJL4AAAAAC/kurumi-tokisaki.gif" width="220" title="Kurumi Tokisaki"/>
   &nbsp;
-  <img src="https://media1.tenor.com/m/R5Qr9bU8ypkAAAAC/classroom-of-the-elite-sakayanagi.gif" width="220" title="Sakayanagi Arisu"/>
+  <img src="https://media1.tenor.com/m/Yq7UzIvNn4QAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.gif" width="220" title="Sakayanagi Arisu"/>
   &nbsp;
-  <img src="https://media1.tenor.com/m/Eu2wBMcB-XUAAAAC/nakano-nino.gif" width="220" title="Nakano Nino"/>
+  <img src="https://media1.tenor.com/m/pclW7cd6XW0AAAAC/the-quintessential-quintuplets-gotoubun-no-hanayome.gif" width="220" title="Nakano Nino"/>
 </p>
 
 <p align="center">
