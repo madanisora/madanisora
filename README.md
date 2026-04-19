@@ -1,38 +1,40 @@
-<h1>Harits — MadaniSora</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=MadaniSora&color=blue)
+![Works on my machine](https://img.shields.io/badge/works_on-my_machine-green)
+![Powered by Coffee](https://img.shields.io/badge/powered_by-coffee-brown)
+![Bug Creator](https://img.shields.io/badge/bugs-created%20daily-red)
+![Magic](https://img.shields.io/badge/it-works%20somehow-blueviolet)
+![Debugging](https://img.shields.io/badge/debugging-why%20is%20it%20working-yellow)
+![Production](https://img.shields.io/badge/pushed_to-production%20on%20Friday-red)
 
-<p>Hi, I'm Harits (MadaniSora). Welcome to my GitHub profile.</p>
+<p align="center">
+  <img src="https://media1.tenor.com/m/TbrCsJIRpXwAAAAC/kurumi-tokisaki.gif" width="220" title="Kurumi Tokisaki"/>
+  &nbsp;
+  <img src="https://media1.tenor.com/m/R5Qr9bU8ypkAAAAC/classroom-of-the-elite-sakayanagi.gif" width="220" title="Sakayanagi Arisu"/>
+  &nbsp;
+  <img src="https://media1.tenor.com/m/Eu2wBMcB-XUAAAAC/nakano-nino.gif" width="220" title="Nakano Nino"/>
+</p>
 
-<p>I'm an independent security researcher from Indonesia 🇮🇩, focused on Web3 security and smart contract auditing. I spend my weekends and free time hunting bugs in bug bounty programs and researching smart contract vulnerabilities.</p>
+<p align="center">
+  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=MadaniSora&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=700&locale=en&custom_title=Top%20Languages&langs_count=10" alt="Top Languages" loading="lazy" />
+</p>
 
-<h2>About Me</h2>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://helio-github-stats.vercel.app/api?username=MadaniSora&custom_title=GitHub+Stats&theme=radical&title_color=35e1ed&text_color=34d5a5&icon_color=f250ec&ring_color=cf35ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=10&card_width=400&show_icons=true&count_private=true" alt="GitHub Stats" loading="lazy" />
+      </td>
+      <td>
+        <img src="https://github-streak-stats-ruby.vercel.app/?user=MadaniSora&theme=radical&hide_border=false&border_radius=10&locale=en&card_width=400&card_height=194" alt="GitHub Streak" loading="lazy" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-```yaml
-Name     : Harits (MadaniSora)
-Role     : Independent Security Researcher
-Location : Indonesia 🇮🇩
-Focus    : Web3 Security & Smart Contract Auditing
-```
+## Cybersecurity Focus
+- Smart Contract Vulnerability Research
+- Web3 Bug Bounty (weekends & free time)
 
-<p>Feel free to check out my repositories and projects. Here are some stats:</p>
-
-<a href="https://github.com/MadaniSora">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadaniSora&theme=highcontrast&show_icons=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=highcontrast" alt="Top Languages" />
-  <img src="https://komarev.com/ghpvc/?username=MadaniSora&label=Profile+Views&style=flat-square" alt="Views" />
-</a>
-
-<h2>Security Focus</h2>
-
-<ul>
-  <li>Smart contract vulnerability research</li>
-  <li>Web3 bug bounty programs (weekends & free time)</li>
-</ul>
-
-<h2>Contact Me</h2>
-
-<p>You can reach out to me on the following platforms:</p>
-
-<ul>
-  <li>Twitter: <a href="https://twitter.com/MadaniSora">@MadaniSora</a></li>
-  <li>GitHub: <a href="https://github.com/MadaniSora">MadaniSora</a></li>
-</ul>
+## Connect
+- Twitter / X: [@MadaniSora](https://twitter.com/MadaniSora)
+- GitHub: [MadaniSora](https://github.com/MadaniSora)
