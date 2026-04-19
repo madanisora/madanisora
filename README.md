@@ -1,48 +1,38 @@
-<div align="center">
+<h1>Harits — MadaniSora</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Harits%20%E2%80%94%20MadaniSora&fontSize=36&fontColor=00d4ff&fontAlignY=40&desc=Independent%20Security%20Researcher%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=62&descSize=14&animation=fadeIn" />
-<br/>
-</div>
+<p>Hi, I'm Harits (MadaniSora). Welcome to my GitHub profile.</p>
 
----
+<p>I'm an independent security researcher from Indonesia 🇮🇩, focused on Web3 security and smart contract auditing. I spend my weekends and free time hunting bugs in bug bounty programs and researching smart contract vulnerabilities.</p>
 
-## 👤 About Me
+<h2>About Me</h2>
+
 ```yaml
-Name        : Harits (MadaniSora)
-Role        : Independent Security Researcher
-Location    : Indonesia 🇮🇩
-Focus       : Web3 Security & Smart Contract Auditing
+Name     : Harits (MadaniSora)
+Role     : Independent Security Researcher
+Location : Indonesia 🇮🇩
+Focus    : Web3 Security & Smart Contract Auditing
 ```
 
----
+<p>Feel free to check out my repositories and projects. Here are some stats:</p>
 
-## 🔐 Security Focus
+<a href="https://github.com/MadaniSora">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadaniSora&theme=highcontrast&show_icons=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=MadaniSora&label=Profile+Views&style=flat-square" alt="Views" />
+</a>
 
-| Area | Details |
-|------|---------|
-| 🧠 Research | Smart contract vulnerability research |
-| 🐛 Bug Bounty | Web3 bug bounty programs (weekends & free time) |
+<h2>Security Focus</h2>
 
----
+<ul>
+  <li>Smart contract vulnerability research</li>
+  <li>Web3 bug bounty programs (weekends & free time)</li>
+</ul>
 
-## 📬 Connect With Me
+<h2>Contact Me</h2>
 
-<div align="center">
+<p>You can reach out to me on the following platforms:</p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40MadaniSora-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MadaniSora)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-MadaniSora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadaniSora)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20line%20of%20code%20is%20a%20potential%20vulnerability%20%E2%80%94%20and%20an%20opportunity%20to%20make%20Web3%20safer.&author=MadaniSora" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer"/>
-
-</div>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/MadaniSora">@MadaniSora</a></li>
+  <li>GitHub: <a href="https://github.com/MadaniSora">MadaniSora</a></li>
+</ul>
