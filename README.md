@@ -1,11 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=MadaniSora&color=blue)
-![Works on my machine](https://img.shields.io/badge/works_on-my_machine-green)
-![Powered by Coffee](https://img.shields.io/badge/powered_by-coffee-brown)
-![Bug Creator](https://img.shields.io/badge/bugs-created%20daily-red)
-![Magic](https://img.shields.io/badge/it-works%20somehow-blueviolet)
-![Debugging](https://img.shields.io/badge/debugging-why%20is%20it%20working-yellow)
-![Production](https://img.shields.io/badge/pushed_to-production%20on%20Friday-red)
-
 <p align="center">
   <img src="https://media1.tenor.com/m/Dp66GxqJL4AAAAAC/kurumi-tokisaki.gif" width="220" title="Kurumi Tokisaki"/>
   &nbsp;
