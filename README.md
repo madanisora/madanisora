@@ -23,7 +23,6 @@
   </table>
 </p>
 
-## `<script>alert(/This is not executable...is it?/);</script>`
 
 ## Cybersecurity Focus
 - Smart Contract Vulnerability Research
