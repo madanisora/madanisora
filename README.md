@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D7A&background=00000000&width=600&lines=MadaniSora+-+Cybersecurity+Researcher;Smart+Contract+%26+Web3+Bug+Bounty;Hacking+the+Blockchain+%F0%9F%94%90)](https://git.io/typing-svg)
 
-### Hello! I'm MadaniSora, a Cybersecurity Researcher focused on Smart Contract Vulnerability Research and Web3 Bug Bounty hunting; mostly interested in blockchain security and low-level exploitation.
+### Hello! I'm MadaniSora, a Cybersecurity Researcher focused on Smart Contract Vulnerability Research and Web3 Bug Bounty hunting; mostly interested in blockchain security and learn low-level exploitation.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/Dp66GxqJL4AAAAAC/kurumi-tokisaki.gif" width="220" title="Kurumi Tokisaki"/>
