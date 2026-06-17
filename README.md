@@ -2,7 +2,7 @@
 
 # MadaniSora
 
-**Cybersecurity Researcher · Smart Contract Auditor · Web3 Bug Bounty Hunter**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF2D7A&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher;Smart+Contract+%26+Web3+Bug+Bounty;Hacking+the+Blockchain+%F0%9F%94%90)](https://git.io/typing-svg)
 
 *Securing the blockchain, one vulnerability at a time.*
 
