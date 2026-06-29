@@ -27,14 +27,12 @@ Here are some ideas to get you started:
 
 <br>
 
-[![](https://img.shields.io/badge/twitter-0a66c2)](https://twitter.com/MadaniSora)
-[![](https://img.shields.io/badge/github-181717)](https://github.com/MadaniSora)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MadaniSora)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MadaniSora)
 
 </div>
 
 ---
-
-## GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
