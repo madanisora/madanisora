@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -29,22 +29,20 @@ Here are some ideas to get you started:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MadaniSora)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MadaniSora)
+[![GitHub followers](https://img.shields.io/github/followers/MadaniSora?label=follower%20github&style=flat-square)](https://github.com/MadaniSora)
 
 </div>
 
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+  <img src="https://profile-counter.glitch.me/MadaniSora/count.svg" width="200">
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/github/followers/MadaniSora?label=Followers&style=social"/>
-  <img src="https://img.shields.io/github/stars/MadaniSora?label=Stars&style=social"/>
-  <img src="https://img.shields.io/github/last-commit/MadaniSora/MadaniSora?label=Last%20Update&style=social"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&hide_border=true&theme=buefy&cache_seconds=86400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&hide_border=true&theme=buefy&show_icons=true&cache_seconds=86400">
+</p>
 
 ---
 
