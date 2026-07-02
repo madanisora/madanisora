@@ -35,8 +35,15 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/github/followers/MadaniSora?label=Followers&style=social"/>
+  <img src="https://img.shields.io/github/stars/MadaniSora?label=Stars&style=social"/>
+  <img src="https://img.shields.io/github/last-commit/MadaniSora/MadaniSora?label=Last%20Update&style=social"/>
 </div>
 
 ---
