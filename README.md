@@ -4,7 +4,6 @@
 **MadaniSora/MadaniSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning ...
 - 👯 I'm looking to collaborate on ...
@@ -16,8 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&center=true&width=435&lines=I+am+MadaniSora%2C+Security+Researcher" width="100%" />
+
 <br><br>
+
 <pre>
     💼 Cybersecurity Researcher • Smart Contract & Web3
     💻 Solidity • Rust • Python • JavaScript
@@ -36,12 +38,12 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MadaniSora/count.svg" width="200">
+  <img src="https://komarev.com/ghpvc/?username=MadaniSora&color=blue&style=flat" alt="Profile Views" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&hide_border=true&theme=buefy&cache_seconds=86400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&hide_border=true&theme=buefy&show_icons=true&cache_seconds=86400">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
