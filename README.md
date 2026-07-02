@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadaniSora&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MadaniSora&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
