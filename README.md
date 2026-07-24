@@ -80,7 +80,7 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MadaniSora&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
-<p align="left"><a href="https://github.com/MadaniSora"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" /></a></p>
+<p align="left"><a href="https://github.com/MadaniSora"></a></p>
 
 <br>
 
