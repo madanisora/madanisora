@@ -20,6 +20,7 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
 - **From**: Indonesia
 - **Focus**: Smart Contract & Web3 Security 
 - **Bug Hunter** | **Security Researcher** | **Smart Contract Auditor**
+- Also active in **Web2 Bug Bounty Hunting**
 - Currently learning **Reverse Engineering**
 - Improving knowledge in **DeFi protocol security** and **on-chain exploit analysis**
 - Lifelong learner — always exploring **everything Web3**
@@ -42,7 +43,11 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
 
 👉 Building & contributing to open source Web3 security projects.
 
+👉 Hunting bugs in Web2 applications alongside Web3 security work.
+
 👉 Currently deep-diving into Rust for on-chain program auditing.
+
+👉 Learning **Reverse Engineering** to strengthen exploit & vulnerability analysis skills.
 
 `Updating:` Journey to becoming a top-tier Smart Contract Auditor.
 
@@ -84,6 +89,32 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MadaniSora&color=blue&style=flat" alt="Profile Views" />
 </div>
+
+---
+
+<h2 id="connect" align=''>🌐 Connect</h2>
+
+- 🛡️ [TryHackMe]()
+- 💼 [LinkedIn]()
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=tokyonight&hide_border=false" width="400" />
+  <br />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Stats" />
+</div>
+
+<p align="center">
+  <a href="#">
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=MadaniSora&repo=github-visitors-badge&countColor=%237B1E7A">
+  </a>
+</p>
+
+---
+
+
+</details>
 
 <br>
 
