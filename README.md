@@ -19,8 +19,8 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
 - **Name**: Harits Akbar Al Madhani
 - **From**: Indonesia
 - **Focus**: Smart Contract & Web3 Security 
-- **Bug Hunter** | **Security Researcher** | **Smart Contract Auditor**
-- Also active in **Web2 Bug Bounty Hunting**
+- **Bug Hunter** | **Security Researcher** |
+- Also active in **Web2 Web3 Bug Bounty Hunting**
 - Currently learning **Reverse Engineering**
 - Improving knowledge in **DeFi protocol security** and **on-chain exploit analysis**
 - Lifelong learner — always exploring **everything Web3**
