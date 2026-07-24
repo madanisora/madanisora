@@ -43,9 +43,7 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
 
 👉 Building & contributing to open source Web3 security projects.
 
-👉 Hunting bugs in Web2 applications alongside Web3 security work.
-
-👉 Currently deep-diving into Rust for on-chain program auditing.
+👉 Hunting bugs in Web2 and Web3.
 
 👉 Learning **Reverse Engineering** to strengthen exploit & vulnerability analysis skills.
 
@@ -80,7 +78,7 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-[![MadaniSora's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadaniSora&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/MadaniSora)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MadaniSora&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
 <p align="left"><a href="https://github.com/MadaniSora"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" /></a></p>
 
@@ -105,11 +103,6 @@ I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Research
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Stats" />
 </div>
 
-<p align="center">
-  <a href="#">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=MadaniSora&repo=github-visitors-badge&countColor=%237B1E7A">
-  </a>
-</p>
 
 ---
 
