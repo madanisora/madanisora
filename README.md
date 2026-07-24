@@ -1,53 +1,91 @@
-## Hi there 👋
-
-<!--
-**MadaniSora/MadaniSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+MadaniSora;Welcome+to+my+profile!" alt="Title"></img>
+  </a>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&center=true&width=435&lines=I+am+MadaniSora%2C+Security+Researcher" width="100%" />
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
-<br><br>
+I'm **[`MadaniSora`](https://twitter.com/MadaniSora)**, a Cybersecurity Researcher specializing in **Smart Contract & Web3 Security**. With a strong passion for blockchain technology and expertise in vulnerability assessment, auditing and reverse engineering, my goal is to secure decentralized systems and help developers ship safer smart contracts.
 
-<pre>
-    💼 Cybersecurity Researcher • Smart Contract & Web3
-    💻 Solidity • Rust • Python • JavaScript
-    📖 Securing the blockchain, one vulnerability at a time
-    🎮 Hacking • Auditing • Reverse Engineering • Repeat
-</pre>
+<details>
+  <summary>More about me</summary>
+
+- **Focus**: Smart Contract & Web3 Security
+- **Bug Hunter** | **Security Researcher** | **Smart Contract Auditor**
+- I have experience in **Smart Contract Auditing**, **Reverse Engineering**, **Vulnerability Research**, **Exploit Development**
+- Improving knowledge in **DeFi protocol security** and **on-chain exploit analysis**
+- Lifelong learner — always exploring **everything Web3**
+- Reach me out on [Twitter](https://twitter.com/MadaniSora)
+
+</details>
+<br>
+
+---
+
+<h2 id="present_status"> Present Status </h3>
+
+👉 Still learning advanced smart contract exploitation & DeFi security.
+
+👉 Auditing smart contracts and writing vulnerability reports.
+
+👉 Writing tools for smart contract analysis & automation.
+
+👉 Building & contributing to open source Web3 security projects.
+
+👉 Currently deep-diving into Rust for on-chain program auditing.
+
+`Updating:` Journey to becoming a top-tier Smart Contract Auditor.
+
+---
+
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MadaniSora)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MadaniSora)
-[![GitHub followers](https://img.shields.io/github/followers/MadaniSora?label=follower%20github&style=flat-square)](https://github.com/MadaniSora)
-
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&color=000000" alt="Solidity" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&color=000000" alt="Rust" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&color=000000" alt="Foundry" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&color=000000" alt="Hardhat" />
+      <img src="https://img.shields.io/badge/Slither-8A2BE2?style=for-the-badge&logo=ethereum&color=000000" alt="Slither" />
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&color=000000" alt="Ethereum" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+  </div>
 </div>
 
 ---
+
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+
+[![MadaniSora's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadaniSora&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/MadaniSora)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MadaniSora&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
+<p align="left"><a href="https://github.com/MadaniSora"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" /></a></p>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MadaniSora&color=blue&style=flat" alt="Profile Views" />
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MadaniSora&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+  <b><i>"Securing the blockchain, one vulnerability at a time."</i></b>
 </p>
-
----
-
-<div align="center">
-  <sub>⚡ Breaking smart contracts so developers can build them better.</sub>
-</div>
+<p align="center">
+<a>🌱</a>
+</p>
