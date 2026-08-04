@@ -10,25 +10,7 @@ I'm currently deepening my knowledge in **reverse engineering** and **DeFi proto
 
 ---
 
-<h2>🔧 Skills</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&color=000000" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&color=000000" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&color=000000" alt="Foundry" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&color=000000" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/Slither-8A2BE2?style=for-the-badge&logo=ethereum&color=000000" alt="Slither" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-</div>
-
----
-
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats & Top Languages</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Stats" height="165"/>
