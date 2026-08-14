@@ -22,7 +22,5 @@ I'm currently deepening my knowledge in **reverse engineering** and **DeFi proto
 <h2>🌐 Connect</h2>
 
 - Twitter/X: [@MadaniSora](https://twitter.com/MadaniSora)
-- LinkedIn: *(add link)*
-- TryHackMe: *(add link)*
 
 </div>
