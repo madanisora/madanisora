@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=28&center=true&vCenter=true&height=50&width=500&lines=Hi%2C+I'm+Harits+(MadaniSora);Security+Researcher+%7C+Web3+%26+Blockchain" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=26&center=true&vCenter=true&height=60&width=800&lines=Hi%2C+I'm+Harits+(MadaniSora);Security+Researcher+%7C+Web2+%26+Web3+%26+Systems+Security" alt="Hi, I'm Harits (MadaniSora) — Security Researcher | Web2, Web3 & Systems Security">
 </div>
 
-<h2>👋 About Me</h2>
+<h2>## 👋 About Me
 
-I'm **Harits Akbar Al Madhani**, based in Indonesia. I focus on **smart contract and Web3 security** — reviewing Solidity code for vulnerabilities, analyzing on-chain exploits, and building small tools to support security research. I'm also active in bug bounty programs across Web2 and Web3.
+I'm **Harits Akbar Al Madhani (MadaniSora)**, based in Indonesia. I focus on **Web2 & Web3 security**, including smart contract security, DeFi, reverse engineering, and vulnerability research.
 
-I'm currently deepening my knowledge in **reverse engineering** and **DeFi protocol security**.
+Currently expanding my skills in **systems security and low-level analysis**.
+
+I believe in **evidence-driven learning** through hands-on labs and technical writeups.
+
 
 ---
 
