@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm **Harits Akbar Al Madhani (MadaniSora)**, based in Indonesia. I focus on **Web2 & Web3 security**, including smart contract security, DeFi, reverse engineering, and vulnerability research.
+I'm **Harits Akbar Al Madhani (MadaniSora)**. I focus on **Web2 & Web3 security**, including smart contract security, DeFi, reverse engineering, and vulnerability research.
 
 Currently expanding my skills in **systems security and low-level analysis**.
 
