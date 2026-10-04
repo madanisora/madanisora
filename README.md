@@ -4,11 +4,9 @@
 
 ## 👋 About Me
 
-I'm **Harits Akbar Al Madhani (MadaniSora)**, an independent security researcher focused on **Web2 & Web3 security**, including smart contract security, DeFi, reverse engineering, and vulnerability research.
+I'm Harits Akbar Al Madhani (MadaniSora), an independent security researcher deeply passionate about Systems Security, Binary Analysis, and Automated Vulnerability Research. 
 
-Currently expanding my skills in **systems security and low-level analysis**.
-
-I believe in **evidence-driven learning** through hands-on labs and technical writeups.
+Currently building technical capabilities tailored for low-level systems (OS/Virtualization internals, advanced fuzzing, and program analysis). I also have a proven background in formal code auditing and smart contract safety invariants.
 
 ---
 
